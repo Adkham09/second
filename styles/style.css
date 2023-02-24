@@ -1,0 +1,114 @@
+/*.txt{
+	background-color: red ;
+	color: yellow;
+}	
+
+.txt2{
+	background-color: blue;																		
+	color: yellow;
+}
+ 
+#lalala{
+	background-color: pink;
+}
+h1{ 
+    background-color: #8B008B ;
+    height: 1000PX; width: 1500PX;	
+}  	
+*/
+
+/**{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.block{
+	background: black;
+	text-align: center;
+}
+
+.block h1 {
+	background: yellow;
+}
+body{
+	background: #333;
+}
+.text{
+	color: white;
+	font-family: arial;
+	font-weight: 1000;
+	font-style: normal;
+	line-height: 30px;
+	word-spacing: 20px;
+	letter-spacing: -2px;
+	text-align: center;
+	background: orangered;
+}
+
+.prosto-div{
+	height: 400px;
+	width: 400px;
+	border-radius: 100%;
+	background: yellowgreen;
+}
+
+.btn{
+	font-size: 40px;
+	width: 400px;
+	height: 100px;
+	background: orangered;
+	color: white;
+	border-radius: 25px;
+}
+*/
+
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+ img {
+     border-radius: 150px;
+}
+.block h1{
+	background: yellow 	;
+}
+body{
+	background: grey;
+}
+button{
+	height: 44px; width: 77px;
+	border-radius: 25px;
+	background: skyblue;
+}
+.block2 h1{
+   background: red;
+}
+.block2 h2{
+	color: blueviolet;
+	font-family: fantasy;
+	font-weight: 500;
+	font-style: normal;	
+	text-align: center;
+}
+.block3 h1{
+	background: yellow	;
+}	
+.block3 h2{
+	color: greenyellow;
+	font-family: serif;
+	font-weight: 500;
+	font-style: normal;
+	text-align: center;
+}
+.block4 h1{
+	background: blueviolet;
+}
+.block4 h2{
+	color: red;
+	font-family: fantasy;
+	font-weight: 500;
+	font-style: normal;
+	text-align: center;
+}   
